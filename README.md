@@ -20,7 +20,7 @@ RULES AND INSTRUCTIONS
   </br>
 
 3. ## Time Limit:
-  The scavenger hunt will last for 30-45 minutes. 
+  The scavenger hunt will last for **|30-45|** minutes. 
   </br>
   The exact duration will be announced at the start.
   </br>
@@ -31,5 +31,8 @@ RULES AND INSTRUCTIONS
   Teams must submit the final code phrase or flag via a Google Form, including:
   </br>
   ### Team name
-  </br>
   ### The flag phrase
+
+  ## The game starts now:
+  </br>
+  the clue 1 is given in this read.me file itself
