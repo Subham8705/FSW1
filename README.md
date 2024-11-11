@@ -6,18 +6,30 @@ RULES AND INSTRUCTIONS
 </br>
 
 2. ## Game Structure:
-Clues will be hidden in various formats, including:
-Comments in files
-Commit messages
-Branch names
-Files in the repository
-Each clue will guide participants to the next step, leading to the final flag.
+  Clues will be hidden in various formats, including:
+  </br>
+  Comments in files
+  </br>
+  Commit messages
+  </br>
+  Branch names
+  </br>
+  Files in the repository
+  </br>
+  Each clue will guide participants to the next step, leading to the final flag.
+  </br>
 
 3. ## Time Limit:
-The scavenger hunt will last for 30-45 minutes. The exact duration will be announced at the start.
-Teams must submit their final flag before the time limit expires.
+  The scavenger hunt will last for 30-45 minutes. 
+  </br>
+  The exact duration will be announced at the start.
+  </br>
+  Teams must submit their final flag before the time limit expires.
+  </br>
 
 4. ## Submission of Final Flag:
-Teams must submit the final code phrase or flag via a Google Form, including:
-Team name
-The flag phrase
+  Teams must submit the final code phrase or flag via a Google Form, including:
+  </br>
+  ### Team name
+  </br>
+  ### The flag phrase
