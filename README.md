@@ -30,9 +30,9 @@ RULES AND INSTRUCTIONS
 4. ## Submission of Final Flag:
   Teams must submit the final code phrase or flag via a Google Form, including:
   </br>
-  ### Team name
-  ### The flag phrase
+  #### Team name
+  #### The flag phrase
 
-  ## The game starts now:
+  ### The game starts now:
   </br>
   the clue 1 is given in this read.me file itself
